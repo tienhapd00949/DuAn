@@ -1,0 +1,70 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Sử Tử"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi này là người tài trí, dũng cảm và đầy nghị lực. Chủ tinh của họ là Thái dương tượng trưng cho sức mạnh, cho sự cứng rắn, luôn luôn gánh vác mọi việc và đương đầu trước mọi khó khăn. Do đó họ dễ dàng trở thành những người chỉ huy, lãnh đạo nhưng có khi trở nên độc đoán. Họ nhiệt tình, lạc quan , hăng hái và tích cực. Họ rất yêu đời, có lý tưởng, và luôn quyết tâm biến lý tưởng thành hiện thực. Tuy nhiên họ có khuyết điểm là hay khoe khoang, tự phụ, che dấu bằng một bề ngoài khiêm tốn, điềm đạm. Họ rất háo danh, háo thắng, nên rất dễ bị mê hoặc hay thất bại bởi những lời tâng bốc gỉa dối, đôi khi còn bị lợi dụng và mất đi khả năng phán đoán chính xác của mình.
+
+Về tình yêu, Hải Sư rất đa tình, lãng mạn và đam mê, và thường hay để tình cảm sôi nổi lấn át. Họ rất chú tâm về vấn đề tình dục để chứng tỏ họ xuất sắc trong nghệ thuật ái ân. Họ muốn nổi tiếng là người đào hoa, được nhiều người theo đuổi, say mê. Do đó và tuổi từ 30 trở đi, họ mới có được một mái gia đình đầm ấm, ổn định. Họ yêu thương con cái, nhưng không có con nhiều."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     2014 dường như không phải một năm thuận lợi cho tình yêu của Sư Tử. Cảm xúc cá nhân quá nhiều và nhu cầu riêng của bản thân sẽ cản trở tình yêu của bạn thăng hoa. Có thể, đây sẽ là thời điểm để bạn nhìn nhận lại tình cảm của mình và thấy rằng mình chưa sẵn sàng cho một mối quan hệ nghiêm túc. Bạn vẫn luyến tiếc cuộc sống độc thân nên không có nhiều cơ hội để đến với một ai đó.
+
+Tháng 8 sẽ có một dấu hiệu lạc quan trong câu chuyện tình yêu của bạn, khi sao Kim chiếu mạng và bạn trở nên hấp dẫn hơn trong mắt người khác giới."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Sư Tử là người có mối quan hệ xã hội rộng, nhưng hầu hết trong số đó, họ chỉ qua lại xã giao và tìm đến nhau khi cả hai có nhu cầu. Những người thật sự là bạn không có nhiều. Họ dành thời gian để thiết lập các mối quan hệ, tìm hiểu sở thích và tính cách của người đó và chỉ kết bạn nếu cảm thấy phù hợp. Họ không thích người khác gọi mình là bạn chỉ sau một cuộc quen biết ngắn ngủi, tình cờ, xã giao.
+
+Đặc biệt, một khi Sư Tử đã giãi bày những điều về mình với người khác, điều đó tức là họ rất coi trọng người đó và muốn kéo dài tình bạn này mãi mãi. Và khi đã là bạn rồi, Sư Tử làm rất nhiều điều vì bạn. Họ sẵn sàng ở bên bạn, động viên bạn thực hiện những kế hoạch của mình. Họ hào phóng và cảm thấy vui khi biết người khác rất vui vì món quà họ tặng.
+
+Sư Tử luôn cần những người bạn có thể khiến bạn tin tưởng. Dương Cưu và Nhân Mã là những người hợp với Sư Tử về tính năng động, dám thử thách. Họ thích chơi với Song Sinh vui vẻ, Ma Kết thực tế và tham vọng. Nhưng người có thể trở thành bạn thân của Sư Tử lại là Bảo Bình - người mà luôn dành tình cảm ấm áp và chân thành cho Sư Tử. Bề ngoài Bảo Bình có thể lạnh lùng và khó tiếp cận, nhưng chính điều này lại hấp dẫn họ."
+             />
+    </LinearLayout>
+
+</ScrollView>

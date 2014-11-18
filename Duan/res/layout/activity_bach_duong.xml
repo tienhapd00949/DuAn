@@ -1,0 +1,71 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Bạch Dương"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi Bạch Dương là người thông minh, can đảm, thích mạo hiểm, có tài lãnh đạo chỉ huy. Nhưng họ thường đề cao sự tự do cá nhân, đôi khi rất ngoan cố, độc tài. Họ có nhiều sáng kiến, nhiều nghị lực, nhanh nhẹn, thích tranh đua, vì thế có thể đi đến chỗ quyết định liều lĩnh. Chính vì thế, mà họ thường là những người tiền phong, xông xáo vào công việc một cách hăng say, nhưng khi máu nóng của họ không còn nữa, hay gặp một vài khó khăn trở ngại nào đó, thì công việc họ đang làm, cho dù rằng có quan trọng cách mấy đi chăng nữa thì họ cũng rất dễ bỏ cuộc. Họ cũng rất có duyên, chỉnh tề, có sức dấp dẫn những người chung quanh, và có tài về ngoại giao.
+
+Tình cảm, mẫu người này hay ghen tuông, đam mê dục vọng hơn là một tình yêu mơ mộng. Tính tình nóng nảy, dễ đưa đến sự gây gỗ, tan vỡ gia đình. Nhưng nếu gặp được người yêu lý tưởng, thì họ là người rất chung thủy và sẵn sàng hy sinh để xây dựng mái ấm gia đình."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     2014 dường như là năm thách thức tình yêu của những Bạch Dương đã kết hôn. Từ tuần cuối của tháng 3 đến hết năm là thời điểm nhiều khó khăn, khi nguy cơ xảy ra những cuộc tranh cãi và cả những bất đồng nho nhỏ là khó tránh. Những trải nghiệm về mặt tình cảm sẽ tạo ảnh hưởng nhất định đến công việc và sự nghiệp. Để vượt qua gia đoạn khó khăn này, cần một Bạch Dương thẳng thắn, chân thành và cũng biết nín nhịn đúng thời điểm.
+
+Với những người mới bước vào cuộc sống hôn nhân, rất nhiều ngọt ngào và thú vị đang chờ đón, còn với Bạch Dương độc thân, không cần quá nôn nóng trong chuyện tình cảm. Có thể 2014, bạn sẽ gặp được ý chung nhân của mình và năm 2015 là thời điểm thích hợp để tình yêu kết trái."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Đối với Dương Cưu, cách để nuôi dưỡng một tình bạn lâu dài không chỉ là chịu khó đi chơi và giao lưu cùng nhau, mà còn cần phải biết cách gây ảnh hưởng lên người khác và tìm ra những sở thích chung. Nếu bạn nói cho Dương Cưu biết bộ phim yêu thích, cuốn sách yêu thích hay những chương trình truyền hình yêu thích của mình là gì, chắc chắn họ sẽ thích thú và coi trọng nó. Dương Cưu rất biết cách truyền năng lượng của mình cho bạn bè và làm lây lan sự nhiệt tình một cách nhanh chóng.
+
+Tuy nhiên, Dương Cưu có xu hướng trở nên ích kỷ đối với bạn bè. Mặc dù đây là tính cách cố hữu tự nhiên của những chú cừu hiếu chiến; nhưng nhiều khi tính cách này sẽ làm cho bạn bè bị tổn thương. Nếu bạn là một người thuộc chòm sao này, hãy học cách kiên nhẫn, bình tĩnh và đừng chú ý quá đến việc bạn bè đã sai như thế nào. Chắc chắn họ sẽ cảm kích bạn hơn, sẵn sàng đưa cho bạn một bàn tay hoặc một bờ vai khi bạn cần.
+
+Với tính cách bốc lửa của Dương Cưu, những người bạn năng động và náo nhiệt như Sư Tử và Nhân Mã sẽ rất hợp nhau. Trong khi đó sự ổn định của Kim Ngưu sẽ giúp bạn bám chặt lấy thực tế hơn; Xử Nữ lại là người có thể làm cho Dương Cưu tỏa sáng, nổi bật và là trung tâm của sự chú ý. Nếu muốn tìm một người bạn có thể chia sẻ tâm sự của bạn, hãy tìm đến Cự Giải và Ma Kết."
+            
+             />
+    </LinearLayout>
+
+</ScrollView>

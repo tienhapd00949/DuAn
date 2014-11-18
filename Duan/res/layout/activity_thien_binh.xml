@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Thiên Bình"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi Thiên Bình thường có nét quyến rũ đặc biệt nhờ dáng dấp lịch sự tao nhã. Thiên bình chịu ảnh hưởng nhiều bởi sao Kim tinh là sao tượng trưng cho tình yêu và nét đẹp. Ðặc tính của họ là chuộng sự công bằng, ghét sự nhỏ nhen, áp bức. Họ quảng đại, khoan dung, thích canh tân và có ý chí độc lập. Tuy nhiên họ có khuyết điểm là lừng khừng trước mọi việc phải quyết định, không dứt khoát được. Họ cũng khó phân biệt được thế nào là thiện và ác, là tốt và xấu. Bình thường họ là người trầm tính, nhưng họ cũng có thể nổi nóng một cách rất dễ dàng, và cứng rắn khi phải quyết định một việc gì rất quan trọng. Họ rất tự cao tự đại, và cho rằng những gì họ nghĩ đều là đúng, ít quan tâm đến sự thoả thuận và ý nghĩ của người khác.
+
+Về tình yêu, tuổi này hướng về một tình yêu cao thượng, không có tính cách vật chất. Họ rất sợ sống cô đơn. Nếu mối tình của họ chẳng may bị đổ vỡ, họ tìm ngay một mối tình khác để khoả lấp vào những trống vắng đó ngay. Nên tránh những gì lãng mạn, mơ mộng, và hãy nhìn vào thực tế của tình yêu thì tốt hơn."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     Trong năm 2014, tình yêu của Thiên Bình đã kết hôn cũng còn ít nhiều gập ghềnh. Nửa năm đầu, tin vui trong tình cảm sẽ đến, tuy nhiên, thử thách sẽ gõ cửa vào những tháng cuối năm, thậm chí có thể xảy ra đổ vỡ. Bởi vậy, bạn nên biết cách cân bằng các mối quan hệ đang có, đừng ngại chia sẻ suy nghĩ, cảm xúc để hiểu nhau hơn.
+
+Ngược lại, 2014 là năm khởi sắc với những Thiên Bình còn độc thân bởi có thể họ sẽ tìm được bạn đời trong năm nay. Tuy nhiên, không nên nóng vội vì có thể sang năm tới mới diễn ra đám cưới."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Thiên Bình là một người bạn tốt. Họ nhiệt tình đáp ứng lời đề nghị của những người khác. Họ có nhiều sở thích khác nhau và muốn chia sẻ với những người bạn của mình. Thiên Bình luôn thích tổ chức những hoạt động tập thể với bạn bè và mang lại bầu không khí thư giãn, không căng thẳng.
+
+Nhưng Thiên Bình có một điểm xấu là không nói rõ ràng mong muốn của mình. Ví dụ như khi muốn đi đâu, làm gì họ không nói ra. Điều này nhiều khi tạo rào cản trong tình bạn và làm người khác khó xử. Thiên Bình cũng thù rất dai. Họ khó tha thứ khi ai đó làm sai gì với mình. Khi làm mất đi tình bạn, Thiên Bình cũng thấy khó khăn để hàn gắn. Vì vậy, nếu là một Thiên Bình, bạn hãy mỉm cười cho qua mọi chuyện khi cãi nhau để nói rằng mọi chuyện vẫn ổn.
+
+Song Sinh và Bảo Bình là những người bạn nói chuyện tâm đầu ý hợp và luôn lắng nghe Thiên Bình. Bò Cạp lại là người đưa cho họ những góc nhìn độc đáo và giúp họ biết được mình muốn gì. Trong khi đó sự tinh tế của Sư Tử sẽ truyền cảm hứng cho họ, đặc biệt là cảm hứng nghệ thuật.
+
+Nhưng có thể nói, Dương Cưu mới là BFF bạn thân của Thiên Bình. Họ luôn cảm thấy hứng khởi khi thuần hóa những chú cừu ngang bướng. Chính điều này mang lại năng lượng để cân bằng mối quan hệ của hai người và làm cả hai vui vẻ."
+             />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Nhân Mã"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi này rất nhiệt tình và lạc quan, có kiến thức, thích tự do, triết lý sống của họ là lanh lợi khôn khéo và hưởng thụ. Họ có lòng tin, thích tìm hiểu và thông cảm với người khác. Họ tử tế, thành thật, biết cách đối xử nên được nhiều người ưa thích. Linh cảm của họ khá bén nhạy, nên họ có thể đoán đuợc những mưu mô, manh tâm lừa bịp họ. Họ thích phiêu lưu mạo hiểm, ưa thay đổi nơi ăn chốn ở, nên du lịch, đi xa là sở thích của họ. Những nhược điểm của họ là hay thay đổi, không bền chí, dễ xúc động nên dễ bị chi phối bởi người khác. Vì có tính nết hay thay đổi này mà họ bị xem như là không có lập trường, hay không có tính quyết đoán, và nhiều khi như vô trách nhiệm.
+
+Tuổi này rất dể bị tình yêu lôi cuốn. Họ thích những tình cảm lãng mạn, thích chinh phục những người khác phái, khi được rồi thì họ lại mau chán và thích thay đổi. Họ không thích bị tình yêu ràng buộc, thích tự do bay nhảy. Họ cũng không màng đến những lời phê phán hay chê trách về những hành vi phóng túng trong tình trường của họ. Họ chỉ có thể có hạnh phúc ở lứa tuổi 40, 50 trở đi, khi họ bình tâm và thay đổi lối sống phiêu bồng, lãng tử của họ mà thôi."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Chuyện tình yêu của Nhân Mã năm nay hầu như chẳng có biến động gì lớn hay quá bất thường. Khi đã tìm được một nửa, mối quan hệ của các bạn vẫn duy trì được sự ổn định. Bạn cần dành nhiều thời gian để tìm hiểu nửa kia và giành được sự tin tưởng từ người ấy. Còn những Nhân Mã độc thân, 2014 chưa phải thời điểm để bạn quyết định tiến đến với một ai đó. Bạn có thể cần dành thời gian xem xét lại bản thân và thậm chí có những thay đổi về sở thích hay mẫu người bạn muốn tìm hiểu.  "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Món quà Nhân Mã mang đến cho những người bạn của mình chính là sự sôi nổi và hăng hái. Họ rất nhiệt tình, siêng năng; có khả năng động viên bạn bè cố gắng và nhận ra cơ hội của mình. Họ thích nhìn thấy bạn bè chiến đấu với tinh thần hăng say và tràn đầy sinh lực. Điều này không những tốt cho bạn của họ, mà còn tốt cho chính bản thân họ. Vì Nhân Mã luôn quan niệm rằng: nhiệt tình là thứ có thể lây lan. Mặt khác, Nhân Mã là người thích thử thách và không muốn nhìn thấy sức lực, tài năng bị lãng phí. Vì vậy, họ thích chơi với những người hối hả, bận rộn; không thích những ai quá nhởn nhơ và làm việc nửa vời.
+
+Sự nhiệt tình của Nhân Mã còn thể hiện ở việc họ luôn sẵn sàng lắng nghe người khác. Khi bạn gặp khó khăn, hãy tìm đến Nhân Mã, họ sẽ cho bạn mượn đôi tai và đưa ra những lời khuyên phù hợp. Ngược lại, họ lại không phải là người thích chia sẻ. Họ thích nghe hơn là nói ra những vấn đề của mình. Tuy nhiên, họ dường như hay cảm thấy nhàm chán. Nếu bạn là một Nhân Mã, hãy học cách điều tiết tính cả thèm chóng chán để bạn bè không bị thất vọng và có những hành động không mang tính xây dựng.
+
+Nhân Mã thích những người bạn tôn trọng sự tự do của mình và bổ sung thêm phần náo nhiệt cho cuộc sống. Với tiêu chuẩn này thì Sư Tử và Dương Cưu là những người bạn hợp gu nhất. Nếu muốn tìm BFF (bạn thân), Nhân Mã có thể tìm những người thuộc cung Song Ngư, Song Sinh, Xử Nữ. Họ là những người hiểu Nhân Mã, biết lắng nghe và biết cách sống đủ xa để không làm phiền sự tự do của Nhân Mã."
+             />
+    </LinearLayout>
+
+</ScrollView>

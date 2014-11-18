@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Ma Kết"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Nguời tuổi này đặt nặng vấn đề danh vọng, đia vị xã hội lên trên hết. Họ thường hay lợi dụng những cuộc giao tế để nâng cao địa vị xã hội của họ lên. Họ nghĩ rằng nếu mở rộng sự giao thiệp sẽ đem lại cho họ nhiều lợi nhuận và quyền thế. Vì vậy họ thích hợp với đời sống cộng đồng hơn là một mái gia đình đơn thuần. Người tuổi này không thành công mau chóng, tuy vậy chậm mà chắc. Họ cũng trung thành, tự tin, bảo thủ, hay nghi ngờ, đề phòng. Có óc tổ chức, tinh khôn sắc xảo, đơn giản. Thích hoạt động cho cộng đồng, tập đoàn nhiều hơn.
+
+Về tình yêu, họ cũng khá chung tình. Họ sắp xếp, tính toán, cân nhắc lợi hại rất kỹ trước khi đến với đối tượng của họ. Do đó, nếu có đổ vỡ thì kẻ dứt áo ra đi không phải là họ mà là đối tượng của họ.
+              "
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Tình cảm có lẽ sẽ là mối quan tâm hàng đầu của những người thuộc cung Ma Kết trong nửa đầu năm nay. Đây cũng là thời điểm mà sự ngột ngạt nếu có trong mối quan hệ của bạn bị phá vỡ. Ba tháng đầu năm sẽ là giai đoạn mà tình cảm của bạn trở nên phức tạp và một chút căng thẳng, có thể là sự trở về của người cũ làm bạn phải bận tâm. Tuy nhiên, bình tĩnh, bao dung sẽ giúp bạn bước qua giai đoạn này một cách dễ dàng. Khoảng tháng 6 đến tháng 8, tình yêu của bạn sẽ có những trải nghiệm bất ngờ và thú vị, biến 2014 trở thành một năm lãng mạn của tình yêu. "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Ma Kết là một người bạn chung thủy và ấm áp, người thực sự hạnh phúc với thành công của bạn bè, luôn động viên và giúp đỡ bạn bè theo đuổi mục tiêu. Họ có khả năng duy trì tình bạn thân thiết ngay cả sau khi mất liên lạc một thời gian dài. Ma Kết còn có thể nói chuyện với bất kỳ ai bất kể độ tuổi một cách vui vẻ và thú vị. Điều này giúp họ có nhiều bạn là người hơn tuổi hơn người khác.
+
+Ma Kết được xem là một người bạn rất có giá trị vì độ tin cậy mà người khác cảm nhận được từ họ. Họ thích được chia sẻ những vấn đề của mình. Khi cảm thấy đủ độ thân thiết, Ma Kết sẽ bắt đầu kể gần như tất cả mọi chuyện về mình, kể cả xấu hay tốt. Họ cần những người bạn có thể cùng khóc, cùng cười và lắng nghe họ nói. Rất may, Ma Kết là những người tình cảm và dễ tiếp cận, vì vậy mọi người cũng không khó khăn để chia sẻ và đưa ra những lời khuyên hữu ích cho họ.
+
+Là một người có thể tin cậy, Ma Kết đòi hỏi bạn của mình cũng phải là những người đáng tin. Đó cũng là lý do vì sao họ có thể kết thân với Xử Nữ và Kim Ngưu. Thiên Bình kìm hãm xu hướng trở thành bạo chúa trong họ; trong khi đó Cự Giải mang cho họ cảm giác như về nhà. Thiên Bình và Dương Cưu cũng sẽ rất hợp với Ma Kết vì cùng là những người năng động."
+             />
+    </LinearLayout>
+
+</ScrollView>

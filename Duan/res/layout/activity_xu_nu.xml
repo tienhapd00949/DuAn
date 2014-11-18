@@ -1,0 +1,67 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Xứ Nữ"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi Xử nữ có tinh thần quảng đại, bao dung, lịch sự. Bản chất của họ là trí thức, nhanh nhẹn và hoạt bát. Họ rất khéo léo trong mọi công việc, và luôn luôn tuân theo nguyên tắc và luật lệ. Họ không hài lòng khi công việc hay dự tính chưa hoàn thành theo ý muốn. Những thành qủa của họ đạt được thường là do chính họ tạo ra. Họ là mẫu người thực tế, hết lòng chăm sóc gia đình và thường hay giúp đỡ mọi người. Họ cũng hay bình phẩm, xét lại, phân tích, khắc khổ, và bất mãn khi công việc không như ý. Họ thường rất có uy tín khi được giao phó một trách nhiệm hay công việc gì.
+
+Tình yêu của người tuổi này thường hay đến trong muộn màng. Họ xem tình yêu là một sự xây dựng chứ không phải là những giay phút lãng mạn thoáng qua, do đó họ rất thực tế trong tình yêu, và khi đã nhận thức được sự khác biệt thực tiễn rồi, thì họ thường hay tự rút lui, hay đi tìm cho mình những cuộc tình khác chỉ vì cảm thấy thiếu thốn hoặc nuối tiếc những lạc thú mà họ đã đạt được."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     Đắng cay và ngọt ngào là hai cung bậc cảm xúc trái ngược, nhưng lại cùng xuất hiện trong năm 2014 của Xử Nữ. Lý trí mạnh mẽ luôn giúp Xử Nữ có được những quyết định sáng suốt trong tình huống khó khăn nhưng lại chẳng giúp ích được nhiều trên con đường tình cảm. Bạn có một khoảng thời gian mặn nồng bên người ấy nhưng cũng rất dễ bị các đối tượng khác phái thu hút. Với những Xử Nữ độc thân, năm 2014 mang đến nhiều cơ hội có người yêu nhưng cần cẩn trọng trước những bước tiến tình cảm chóng vánh này."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="		Xử Nữ rất coi trọng tình bạn và sẵn sàng làm nhiều việc vì bạn bè. Họ không chỉ làm cho những người bạn của mình hạnh phúc mà còn là người rất hữu ích trong mắt bạn bè. Bởi vì Xử Nữ luôn cố gắng đáp ứng nhiều nhất nhu cầu, mong muốn của bạn, và sẵn sàng làm việc giúp bạn.
+
+Tuy nhiên, đây cũng chính là vấn đề của Xử Nữ. Họ luôn dành thời gian để chăm sóc bạn bè, nhưng đôi khi quan tâm quá sẽ làm người khác khó chịu. Tình bạn là luôn ở đó khi bạn cần, nhưng dành toàn bộ thời gian cho bạn thì chắc chắn không phải điều tốt. Vì vậy, nếu là Xử Nữ, bạn đừng chăm sóc bạn bè quá. Thay vì kè kè ở bên trong tư thế lúc nào cũng có thể làm giúp, bạn hãy đưa ra lời khuyên. Nhưng đừng nhận xét gay gắt quá, nên mềm mỏng hơn và hài hước hơn.
+
+Xử Nữ đáng tin và đủ vững chắc để tự chăm sóc bản thân, nhưng họ thích những người có cảm xúc ổn định như Kim Ngưu, Ma Kết. Sự nhạy cảm của Cự Giải cũng thu hút Xử Nữ, và là người có thể ở bên chăm sóc Xử Nữ khi họ cần. Trong khi đó, Bảo Bình có thể giúp họ có hướng suy nghĩ rộng hơn, Song Sinh thúc giục họ làm những điều mình thích và Song Ngư cho Xử Nữ những lời khuyên tuyệt vời và đánh thức trí tưởng tượng cũng như sự lãng mạn trong họ."
+            android:textColor="#00008B" />
+    </LinearLayout>
+
+</ScrollView>

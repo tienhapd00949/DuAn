@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Song Ngư"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Người tuổi Song ngư rất quảng đại, dễ mến, mềm mỏng và bao dung, họ có một lòng từ ái bao la, họ thường hay quên mình và để hy sinh cho người khác; đôi khi họ nhận chịu những thiệt thòi để đổi lấy sự an bình nơi người chung quanh. Họ là người có nhiều cao vọng và thường muốn thoát ra những ràng buộc chung quanh. Người tuổi này là mẫu người có nhiều mơ mộng, nhạy cảm, và hay lưỡng lự trước khi quyết định. Ðó là do họ để cảm tình lôi kéo họ hơn là nhờ vào những suy luận của lý trí. Chính vì thế, nên người tuổi này phải coi chừng đề phòng những trường hợp bị lợi dụng bởi người khác. Tuy nhiên, họ có tài ăn nói bén nhạy, và có tài hòa giải những bất đồng một cách tốt đẹp. Phần đông những người tuổi này thường thích làm nghề tự do, và không thích những chức vụ chỉ huy lâu dài. Vì thông minh thiên phú và có khả năng học hỏi mau chóng, họ thích hợp với các nghề như y, dược, giáo dục, kỹ sư.
+
+Về tình cảm, tình yêu là căn bản thực sự của người tuổi Song ngư, giúp họ tìm lại được bản chất cao quý của họ. Tình cảm của họ thật sâu đậm, chân thật, nhưng thường che dấu, nên dễ bị hiểu lầm là hờ hững lạnh nhạt. Họ thích đuổi theo hạnh phúc và dễ bị tình yêu dẫn dắt. Họ rất mơ mộng và chinh phục tình yêu bằng sự chân thành của họ. Ðiều này khiến cho đối tượng của họ rất hài lòng. "
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Năm 2014 là thời điểm vàng để những Song ngư độc thân gặp được ý trung nhân của đời mình. Với những người đã có nơi có chốn, tình yêu của bạn sẽ được nhân lên bởi sự lãng mạn, đặc biệt trong nửa năm đầu. Cuộc sống lứa đôi sẽ liên tiếp có những chuyến đi du lịch, giải trí đến tận tháng 9. Tuy nhiên cũng cần dành cho đối phương những khoảng riêng tư nhất định, có như vậy, cuộc sống hôn nhân mới dễ chịu và bền chặt hơn.  "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="		Song Ngư là một người bạn đáng coi trọng và vô cùng đáng yêu. Họ không chỉ dành nhiều thời gian, công sức cho tình bạn mà còn là chỗ dựa, là đôi tai của bạn. Song Ngư sẵn sàng hy sinh vì bạn bè, họ coi vấn đề của bạn như vấn đề của mình. Họ dễ dàng kết bạn với những người có hứng thú và quan tâm đến sở thích, cảm xúc của họ; đặc biệt dễ kết thân với những người có cùng hoàn cảnh.
+
+Tuy nhiên, Song Ngư rất cả tin và dễ bị lừa. Nhiều người lợi dụng lòng tốt của Song Ngư, chỉ cần giả vờ bắt chước, quan tâm đến những việc mà Song Ngư quan tâm cũng có thể thu phục được họ. Và khi phát hiện ra mình bị lợi dụng, họ dễ buồn chán và hoài nghi. Ngoài ra, Song Ngư hay trễ hẹn và thường xuất hiện trong bộ dạng lúng túng, bối rối.
+
+Đối với Song Ngư, Bò Cạp và Cự Giải là những người bạn an toàn nhất, tốt nhất vì họ có thể thấu hiểu, chia sẻ cảm xúc mong manh, dễ bị tổn thương của Song Ngư. Trong khi đó, họ sẽ ngưỡng mộ sự tự do, khao khát khám phá của Dương Cưu. Nhân Mã lại hiểu họ cần gì và có thể chạm vào sự tưởng tượng, mơ mộng của họ. Và người mà Song Ngư có thể kết thành bạn thân là Xử Nữ, vì Xử Nữ có thể vừa giúp họ đối mặt với thực tế khắc nghiệt, vừa có thể cùng họ chạy trốn trong trí tưởng tượng bay bổng.
+
+            "
+            android:textColor="#00008B" />
+    </LinearLayout>
+
+</ScrollView>

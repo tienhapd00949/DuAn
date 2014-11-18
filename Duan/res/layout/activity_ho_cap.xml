@@ -1,0 +1,70 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Hổ Cáp"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi này là mẫu người giàu nghị lực, thông minh, linh hoạt, nhiều sáng tạo, nhưng lại có nhiều tham vọng. Bản tính thẳng thắn, dũng cảm, cương nghị giúp họ chấp nhận mọi gian lao thử thách vượt qua mọi khó khăn. Họ có tài tổ chức một cách trật tự, và điều khiển công việc một cách cẩn thận. Người tuổi này rất trọng chữ tín. Tuy nhiên khuyết điểm của họ là dễ bị nổi giận khi bi khiêu khích , rất dễ bị xúc động và rất dễ thấy rằng mình bị xúc phạm. Họ có tính thù dai, nếu ai mà đã trót dại xúc phạm hay làm họ thiệt thòi điều gì, thì họ sẽ tìm đủ mọi cách để trả đủa lại, mà còn gấp 10 lần người kia đã làm cho họ. “Your life won’t be the same!” . Vì vậy họ thường trở nên ngoan cố, ít chịu nghe lời khuyên bảo hay cố vấn của người khác.
+
+Tình yêu rất quan trọng đối với người tuổi này. Họ thường gây hứng khởi cho cuộc sống và hăng say tạo dựng sự nghiệp. Họ là người tình chung thủy, thực tế trong tình yêu, đòi hỏi thoả mãn xác thịt, ái ân nhiều hơn là những âu yếm, mơ mộng. Tình dục rất quan trọng đối với tình yêu của người tuổi này. Nếu gặp đối tượng biết đáp ứng những đòi hỏi khao khát và thoả mãn của họ, họ sẽ sẵn sàng lao đầu vào cuộc tình với tất cả đam mê. Họ quan niệm tình dục, ái ân là một điều tối quan trọng trong đời sống họ, và một gia đình ấm êm là đủ."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Lãng mạn và đầy hi vọng là những điều sẽ ghé thăm tình yêu của Hổ Cáp trong năm nay. Tuy nhiên, tháng 3/2014 sẽ thử thách tình cảm của Hổ Cáp đôi chút, khi một vài sự việc nhỏ diễn ra cũng khiến bạn đặt câu hỏi về mối quan hệ của mình. Liệu tình cảm của mình có đi đúng hướng?. Mình đã chọn đúng bạn đời hay chưa?. Mình muốn gì trong mối quan hệ này? Người ấy muốn mình thay đổi thế nào?... Trước hết, hãy thả lòng cơ thể và dành thời gian để trò chuyện, thấu hiểu nhau hơn là cực kỳ cần thiết trong giai đoạn này. Bạn cũng nên chia sẻ những suy nghĩ của bản thân và nếu cần, có thể tiến hành một vài thỏa thuận nho nhỏ với bạn đời.
+
+Tháng 4, bầu không khí gia đình sẽ trở nên thư giãn hơn và tháng 6, 8, 10 cùng tuần đầu tiên của tháng 11 sẽ ngập tràn thành tựu. "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Bò Cạp là người có thể khiến bạn bè mình chăm chỉ làm việc và luôn nỗ lực thực hiện mục tiêu. Vì vậy, họ không thích những người nhàm chán hoặc không có gì để làm. Bò Cạp thích tổ chức những sự kiện cộng đồng nơi mà họ có thể hòa nhập vui chơi cùng bạn bè.
+
+Tuy nhiên, Bò Cạp cũng rất dễ cáu và bạo lực. Khi người khác không muốn chia sẻ nhiệt huyết, không háo hức và say mê, họ có khuynh hướng bực tức, nổi giận. Họ thường phản ứng thái quá trong một số tình huống. Ngoài ra, Bò Cạp rất hay ghen, nhất là khi hai người bạn chơi với nhau vui vẻ mà mình bị bỏ rơi.
+
+Đối với Bò Cạp, người bạn tốt nhất với họ là Song Ngư và Cự Giải, vì đây là những người có thể chia sẻ cảm xúc với Bò Cạp. Dương Cưu giúp họ có cái đầu thoáng hơn và thêm quyết tâm theo đuổi mục tiêu của mình. Trong khi đó, Kim Ngưu lại là người có cá tính đủ mạnh để thức tỉnh khi họ trở nên độc đoán."
+             />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,72 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Cự Giải"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Người tuổi này là người có óc quan sát thực tế, thích học hỏi, nhưng rất bảo thủ và hay tự hào, đôi khi trở thành cố chấp và ương bướng. Tuy thế, nhờ khả năng phân tích, và suy luận của họ, giúp họ thích hợp với các nghề chuyên môn như y, luật, tài chánh, và giáo dục. Ðặc biệt ở tuổi này, vì có sự suy tính hơn thiệt rất tinh túy, nên họ hay nghĩ đến phần lợi cho chính họ, cũng chính vì thế mà họ là những người thường có đầu óc kinh doanh thương mại, nhờ vào khả năng suy đoán lợi hại, hơn thiệt kia mà làm cho các cuộc kinh doanh của họ phát đạt hơn. Tuy nhiên người tuổi này nên tránh những trò chơi hay công việc làm có tính cách hên xui may rủi, không tốt. Về tính tình, họ là người thường hay cho mình là tự trọng, nhưng thật ra trong thâm tâm họ, họ không biết điều mà họ suy nghĩ là đúng hay sai. Họ có khuynh hướng rất bảo thủ, không chịu nghe lời khuyên giải của người khác, và thường hành động theo thói quen, theo chiều hướng suy nghĩ riêng tư của họ và không chịu thay đổi.
+
+Về tình cảm, Bắc giải rất đa cảm, cố che dấu tình cảm không muốn để lộ ra ngoài, do đó ít ai biết rõ ý nghĩ chân thật của họ. Trong tình yêu, họ yêu say đắm, nhưng rất mơ mộng, đa cảm, lãng mạn. Tuy nhiên họ rất thích xây dựng một mái ấm gia đình nhưng vì tính tình lãng mạn và hay cố chấp, nên cuộc sống lứa đôi không mấy được bảo đảm, cũng có phần ít người tuổi này rất hạnh phúc."
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    Từ đầu năm cho đến tận tháng 7, câu chuyện tình yêu của Cự Giải sẽ chứa đầy cảm xúc và trực giác. Trong tình cảm, sự hăng hái và khao khát tự do cũng như tính phiêu lưu sẽ luôn hiển hiện cùng Cự Giải.
+
+Hãy cẩn thận vào tháng 1, vì tình cảm của bạn có thể xáo trộn đôi chút, nhưng tiếc là theo hướng rắc rối và phức tạp. Tháng 8 có thể bạn cần đưa ra một quyết định quan trọng với cuộc sống lứa đôi trước khi bước vào khoảng thời gian từ tháng 10 đến tháng 12 đầy hạnh phúc, bất ngờ và đam mê. Nhìn chung, năm 2014 là năm đón nhận nhiều niềm vui trong đời sống tình cảm của Cự Giải."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="	Cự Giải rất giỏi kết bạn và cũng luôn muốn kết thật nhiều bạn như thể sợ khi chết không còn được chơi với ai nữa. Nếu bạn là một Cự Giải trẻ trung, bạn rất sẵn lòng đưa bạn về nhà chơi và giới thiệu với bố mẹ của mình. Ngược lại, nếu bạn là Cự Giải cha mẹ, bạn cũng khuyến khích con cái đưa bạn về nhà. Cự Giải có xu hướng coi bạn bè như gia đình của mình, hoặc biến một nhóm bạn thân thành một dạng gia đình đặc biệt. Nhưng họ chỉ làm việc này khi cảm thấy người bạn đủ thân thiết và tin tưởng. Cự Giải cũng rất giỏi trong việc dàn xếp bất hòa giữa các bạn.
+
+Tuy nhiên, có một vấn đề là khi chơi với những người ít tuổi hơn, Cự Giải có xu hướng hành xử như thể phụ huynh. Họ không thể ngồi yên và nhìn những người trẻ tuổi mắc sai lầm như họ từng mắc phải. Điều này có thể làm cho bạn bè của họ cảm thấy khó chịu.
+
+Cự Giải là những người nhạy cảm, vì vậy họ cần bên cạnh mình những người bạn có thể hiểu được chiều sâu cảm xúc và có thể đối phó với những thay đổi tâm trạng thất thường của họ. Trong trường hợp này, Song Ngư và Bò Cạp sẽ là những người bạn luôn cảm thông và ủng hộ khi họ cần.
+
+Nếu bạn là Cự Giải, hãy tìm đến với Sư Tử khicần ai đó giúp khẳng định bản thân và khuyên nhủ bạn nên làm gì. Trong khi đó, sự vững chắc của Kim Ngưu khiến Cự Giải cảm thấy an toàn và có thể tin tưởng và phụ thuộc.	"
+             />
+    </LinearLayout>
+
+</ScrollView>

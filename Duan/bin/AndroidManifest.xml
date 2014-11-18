@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.duan"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BachDuongActivity"
+            android:label="@string/title_activity_bach_duong" >
+        </activity>
+        <activity
+            android:name=".KimNguuActivity"
+            android:label="@string/title_activity_kim_nguu" >
+        </activity>
+        <activity
+            android:name=".SongtuActivity"
+            android:label="@string/title_activity_songtu" >
+        </activity>
+        <activity
+            android:name=".CugiaiActivity"
+            android:label="@string/title_activity_cugiai" >
+        </activity>
+        <activity
+            android:name=".SutuActivity"
+            android:label="@string/title_activity_sutu" >
+        </activity>
+        <activity
+            android:name=".XuNuActivity"
+            android:label="@string/title_activity_xu_nu" >
+        </activity>
+        <activity
+            android:name=".ThienBinhActivity"
+            android:label="@string/title_activity_thien_binh" >
+        </activity>
+        <activity
+            android:name=".HoCapActivity"
+            android:label="@string/title_activity_ho_cap" >
+        </activity>
+        <activity
+            android:name=".NhanMaActivity"
+            android:label="@string/title_activity_nhan_ma" >
+        </activity>
+        <activity
+            android:name=".MaKetActivity"
+            android:label="@string/title_activity_ma_ket" >
+        </activity>
+        <activity
+            android:name=".BaoBinhActivity"
+            android:label="@string/title_activity_bao_binh" >
+        </activity>
+        <activity
+            android:name=".SongNguActivity"
+            android:label="@string/title_activity_song_ngu" >
+        </activity>
+        <activity
+            android:name=".GioiThieuActivity"
+            android:label="@string/title_activity_gioi_thieu" >
+        </activity>
+    </application>
+
+</manifest>

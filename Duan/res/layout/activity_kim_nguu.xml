@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Kim Ngưu"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="		Người tuổi Kim Ngưu là người chịu ảnh hưởng của Kim tinh, nên tính tình rất cứng cỏi, không sợ bất cứ trở lực nào. Họ rất bền chí, dễ cảm thụ, thông cảm, nên được mọi ngưòi coi như là một con người từng trải, chín chắn. Họ tỏ ra có tài quan sát tinh tế và chính xác, không xét đoán sự việc một cánh nông nổi, thiếu suy nghĩ. Tuy nhiên họ có khuyết điểm là quá dễ dãi, nhưng khi nổi giận thì trở nên ngoan cố, có khi bạo động, và trở thành bảo thủ. Họ là loại người rất trọng những gì hào nhoáng bề ngoài. Thích ăn ngon mặc đẹp, chưng diện và tiêu xài hoang phí. Vật chất đối với họ rất quan trọng. Tuy nhiên họ cũng có tính hay thương và giúp đỡ người khác.
+
+Về tình cảm, ngưòi tuổi này thường đặt nặng tình cảm và dễ xúc động. Họ thành thật và tha thiết, tận tụy và cảm thông với người yêu dù có bị lạnh nhạt, hững hờ. Họ say mê không khí ấm êm của gia đình, thương yêu con cái rất mực, và chứng tỏ là một người chồng, người vợ gương mẫu.
+            "
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 		Trong tình yêu, Kim Ngưu là người muốn chiếm giữ. Kim Ngưu luôn đòi hỏi một mối quan hệ rõ ràng và đặc biệt là sự chung thủy. Đó là lý do mà trong năm 2014, bạn sẽ có cơ hội học cách cân bằng giữa điều mình muốn và điều đối phương mong mỏi. Đây cũng là năm bạn phải đưa ra những quyết định cho một số mối quan hệ. Tự do, thoải mái và thả lỏng bản thân, nên dành thời gian để hai người được thư giãn bên nhau như đi du lịch, dã ngoại. Năm 2014, Kim Ngưu cần tránh những hiểu lầm không đáng có ảnh hưởng tới tình cảm vợ chồng.Trong 3 tháng đầu của năm, một mối quan hệ tình cảm tốt đẹp có thể tới với Kim Ngưu còn độc thân thông qua một chuyến đi. Tháng 6 sẽ là thời điểm để thấy được thành tựu của mối quan hệ này."
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Trong tình bạn, Kim Ngưu kiên định, trước sau như một và rất đáng tin. Họ sẽ làm hết sức mình để giúp bạn bè và ở bên người ấy trong mọi hoàn cảnh. Nếu tự biết mình không thể giúp gì cho bạn, Kim Ngưu sẽ không ngại ngần nói thẳng với bạn. Tuy nhiên, họ sẽ vẫn cố gắng đưa ra những lời khuyên nghiêm túc. Đây cũng chính là sức mạnh của Kim Ngưu trong những mối quan hệ bạn bè. Bờ vai và cánh tay của họ luôn sẵn sàng dành cho những người cần được an ủi, vỗ về.
+
+Kim Ngưu không giỏi kết bạn và cũng không muốn vội vàng, hấp tấp khi kết bạn với một ai đó. Khi đến một nơi xa lạ, họ mất khá nhiều thời gian để có thể tạo mối quan hệ và cảm thấy thoải mái hơn. Điều này không phải là họ không thích những người bạn mới, chỉ là họ chưa cảm thấy đủ tin tưởng và an toàn.
+
+Kim Ngưu chậm và chắc, vì vậy những người sống thực tế và chắc chắn như Xử Nữ, Ma Kết sẽ rất hợp với họ. Sự vui vẻ và hoạt bát của Song Sinh sẽ giúp cho Kim Ngưu tìm được cảm hứng làm việc và thoát khỏi lối mòn tư duy. Trong khi đó, Song Ngư sẽ là một người bạn cực kỳ chung thủy; sự thông minh của Bò Cạp khiến Kim Ngưu ngưỡng mộ và họ rất thoải mái khi ở bên một Sư Tử."
+             />
+    </LinearLayout>
+
+</ScrollView>

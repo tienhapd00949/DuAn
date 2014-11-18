@@ -1,0 +1,69 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Song Tử"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="	Người tuổi Song Nam có khả năng quan sát, nhận thức và có trí nhớ rất tốt. Việc học hỏi của họ rất dễ dàng nên sự thành công của họ không có gì khó khăn lắm. Họ có óc tưởng tượng phong phú nên thích hợp với các nghề như ca nhạc, mỹ thuật, ca vũ. Nhờ có sự vui vẻ, nên họ cũng dễ thành công trong các nghề thương mại, địa ốc, chứng khoán, bảo hiểm. Tuy nhiên họ có khuyết điểm là không bằng lòng với cái gì họ đang có, thích theo đuổi nhiều nghề cùng lúc, rồi khi thấy kết quả chậm chạp, họ trở nên chán nản và bỏ cuộc vì thiếu sự kiên nhẫn.
+
+Về tình cảm, người tuổi này rất lãng mạn và phóng khoáng. Vì thế họ dễ vướng mắc vào tình yêu mơ mộng và lý tưởng hóa cuộc tình của họ, dù cho rằng đó không phải là sự thật về tình yêu. Họ thường hay thích khoe khoang và che dấu những khuyết điểm của họ, và giả như có ai đó biết rõ đưọc các khuyết điểm đó, thì họ sẽ tìm đủ mọi cách để khỏa lấp những sự thật của chính họ. Tuy nhiên họ có sức quyến rũ mãnh liệt đối với người khác phái, nhưng hay thay đổi nhanh chóng. Chính điều này khiến cho tình yêu của họ thêm rắc rối và đưa đến sự tan vỡ."
+            
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Chia tay những cảm xúc nhạt nhòa và thoáng qua của năm cũ, 2014 đón Song Tử bằng một sự tập trung trong lĩnh vực tình cảm. Bạn ổn định hơn và xác định rõ ràng điều mình muốn, dẫu đôi khi vẫn hành động theo trái tim mà bỏ qua lý trí. Đường tình duyên của Song Tử sẽ rực rỡ nhất từ giữa tháng 1 đến giữa tháng 5. Nếu bạn đã có người yêu và quan hệ của hai người tạm ổn định trong năm 2013 thì nhiều điều thú vị và mới mẻ sẽ chờ đợi bạn trong năm mới. Nếu bạn còn đang độc thân, giai đoạn từ tháng 7 đến tháng 9 là tốt nhất để bạn tìm được một nửa hay một mối quan hệ mới. Cuối năm 2014, bạn sẽ muốn có bước tiến rõ ràng và ổn định hơn, thậm chí là tiến tới hôn nhân.  "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text=" Song Sinh là người có rất nhiều bạn và thành phần bạn bè cũng vô cùng đa dạng. Họ kết bạn ở mọi độ tuổi, ở mọi nơi và mọi nền văn hóa. Tính cách phức tạp của Song Sinh đòi hỏi nhiều bạn để có thể chọn ra một người phù hợp với từng lúc tâm trạng của mình. Song Sinh hay hoài nghi, nhưng lại hay nhìn mọi người theo mặt tích cực; chính vì thế họ rất dễ kết bạn. Tuy nhiên, bạn bè thì có thể nhiều, nhưng lại không có quá nhiều người mà họ có thể tin tưởng và thân thiết.
+
+Chính sự nhiệt tình, hăng hái của Song Sinh đã lây lan sang bạn bè và làm cho không khí xung quanh họ náo nhiệt hơn. Điều này tác động ngược trở lại, giúp Song Sinh có năng lượng để theo đuổi, thực hiện những điều mình thích. Họ cũng thích những người bạn thông minh và hiểu biết sâu rộng; vì những người này có thể đặt ngược vấn đề và đưa ra thử thách cho Song Sinh. Vì vậy, kỹ năng giao tiếp của họ cũng tăng lên.
+
+Trong 12 cung hoàng đạo, Thiên Bình và Bảo Bình là những người hợp với Song Sinh và sẽ luôn ở bên Song Sinh. Trong khi đó, họ bị thu hút, ngưỡng mộ sự dũng cảm của Dương Cưu và vui vẻ nghe theo sự dẫn dắt của những chú cừu. Nhân Mã luôn hiểu Song Sinh cần gì và cùng nhau chia sẻ ước muốn, dẫn đến một tình bạn bền lâu. Họ cũng sẽ nhanh chóng kết thân với những chú cá - Song Ngư tinh nghịch, vui vẻ và linh hoạt như mình."
+             />
+    </LinearLayout>
+
+</ScrollView>

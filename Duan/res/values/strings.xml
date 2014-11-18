@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Duan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bach_duong">BachDuongActivity</string>
+    <string name="title_activity_kim_nguu">KimNguuActivity</string>
+    <string name="title_activity_songtu">SongtuActivity</string>
+    <string name="title_activity_cugiai">CugiaiActivity</string>
+    <string name="title_activity_sutu">SutuActivity</string>
+    <string name="title_activity_xu_nu">XuNuActivity</string>
+    <string name="title_activity_thien_binh">ThienBinhActivity</string>
+    <string name="title_activity_ho_cap">HoCapActivity</string>
+    <string name="title_activity_nhan_ma">NhanMaActivity</string>
+    <string name="title_activity_ma_ket">MaKetActivity</string>
+    <string name="title_activity_bao_binh">BaoBinhActivity</string>
+    <string name="title_activity_song_ngu">SongNguActivity</string>
+    <string name="title_activity_gioi_thieu">GioiThieuActivity</string>
+
+</resources>

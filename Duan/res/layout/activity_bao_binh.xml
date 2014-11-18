@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/hinhnencung" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Cung Bảo Bình"
+            android:textColor="#0000CD"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     I.Tính Cách "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Khi mới gặp một Bảo Bình, bạn có thể nghĩ rằng họ không phải là một người bạn tốt. Nhưng sự thật lại khác xa! Bảo Bình là một người bạn thật sự tốt, là người biết lắng nghe và hiểu những gì bạn nói. Họ sẵn sàng giúp bạn mà không cần đáp trả. Đơn giản vì họ nghĩ đó là việc tốt nên làm. Đây cũng là lý do vì sao họ thích tham gia các công việc liên quan đến cộng đồng và từ thiện.
+
+Bảo Bình có khả năng giữ một tình bạn lâu dài bằng sự chân thành, thấu hiểu và ấm áp của mình. Họ quyết đoán và không ngại ngần thể hiện những suy nghĩ của mình. Khi làm việc nhóm, Bảo Bình cũng là thành viên tốt, vì họ có thể thúc đẩy mọi người làm việc và làm cho mọi người cảm thấy hứng khởi hơn.
+
+Tuy nhiên, vấn đề gây khó khăn trong quan hệ bạn bè của Bảo Bình là tính cá nhân. Điều này không có nghĩa là ích kỷ, mà là Bảo Bình luôn cần một khoảng không gian riêng cho mình. Họ không thích bị bạn bè chiếm hết không gian riêng của mình và muốn được tự do. Nếu bạn muốn kết thân với Bảo Bình, hãy chú ý giữ khoảng cách trước khi được họ đồng ý cho bước vào cuộc sống riêng tư của họ.
+
+Những người thuộc cung Thiên Bình, Song Sinh là những người hợp nhất với Bảo Bình, vì họ có khả năng khiến Bảo Bình có được suy nghĩ sáng suốt. Bò Cạp với sự chung thủy, nhất quán, hợp lý sẽ làm Bảo Bình thấy thoải mái và dễ chịu; trong khi đó Cự Giải là những người có thể giúp giải quyết những vấn đề thuộc về trái tim. "
+            android:textColor="#00008B" >
+        </TextView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     II.Tình Yêu "
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Tình yêu của Bảo Bình sẽ ngập tràn trong năm 2014. Dưới sự bảo hộ của sao Kim - ngôi sao tượng trưng cho tình yêu, những người thuộc cung Bảo Bình nếu đang yêu thầm có thể mạnh dạn bày tỏ tình cảm với nửa kia mà khó lòng bị từ chối. Với Bảo Bình đã tìm được một nửa, cuộc sống của bạn trong năm 2014 sẽ không thể thiếu những khoảnh khắc lãng mạn, ngọt ngào từ tháng 3 đến tháng 5, đặc biệt là trong tháng 7. Hãy nhìn tình yêu như một cuộc phiêu lưu và tận hưởng những trải nghiệm thú vị mà nó mang lại.  "
+            android:textColor="#00008B" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     III.Tình Bạn"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00008B"
+            android:text="		Khi mới gặp một Bảo Bình, bạn có thể nghĩ rằng họ không phải là một người bạn tốt. Nhưng sự thật lại khác xa! Bảo Bình là một người bạn thật sự tốt, là người biết lắng nghe và hiểu những gì bạn nói. Họ sẵn sàng giúp bạn mà không cần đáp trả. Đơn giản vì họ nghĩ đó là việc tốt nên làm. Đây cũng là lý do vì sao họ thích tham gia các công việc liên quan đến cộng đồng và từ thiện.
+
+Bảo Bình có khả năng giữ một tình bạn lâu dài bằng sự chân thành, thấu hiểu và ấm áp của mình. Họ quyết đoán và không ngại ngần thể hiện những suy nghĩ của mình. Khi làm việc nhóm, Bảo Bình cũng là thành viên tốt, vì họ có thể thúc đẩy mọi người làm việc và làm cho mọi người cảm thấy hứng khởi hơn.
+
+Tuy nhiên, vấn đề gây khó khăn trong quan hệ bạn bè của Bảo Bình là tính cá nhân. Điều này không có nghĩa là ích kỷ, mà là Bảo Bình luôn cần một khoảng không gian riêng cho mình. Họ không thích bị bạn bè chiếm hết không gian riêng của mình và muốn được tự do. Nếu bạn muốn kết thân với Bảo Bình, hãy chú ý giữ khoảng cách trước khi được họ đồng ý cho bước vào cuộc sống riêng tư của họ.
+
+Những người thuộc cung Thiên Bình, Song Sinh là những người hợp nhất với Bảo Bình, vì họ có khả năng khiến Bảo Bình có được suy nghĩ sáng suốt. Bò Cạp với sự chung thủy, nhất quán, hợp lý sẽ làm Bảo Bình thấy thoải mái và dễ chịu; trong khi đó Cự Giải là những người có thể giúp giải quyết những vấn đề thuộc về trái tim."
+             />
+    </LinearLayout>
+
+</ScrollView>
